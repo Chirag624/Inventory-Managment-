@@ -2,7 +2,7 @@
 This project provides Inventory Management using Power BI, useful for Warehouse/ In-plant Inventory Managers to effectively control the Inventory levels and also maintain the Service Levels
 
 Tools Used:
-Power BI Software
+Power BI Software,
 Excel
 
 Visualization Used:
@@ -19,3 +19,6 @@ Visualization Used:
 
 
 • With the help of DAX Created Calculated Columns and Rows (for combining dates etc.)
+
+
+![Image](https://github.com/user-attachments/assets/e79a7136-5aea-4538-9727-66e50df84b21)
